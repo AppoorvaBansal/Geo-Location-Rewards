@@ -42,7 +42,7 @@ The Geo-Location Reward System is a blockchain-based solution to monitor attenda
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/geo-location-rewards.git
+   git clone https://github.com/AppoorvaBansal/Geo-Location-Rewards.git
    ```
 2. Deploy the smart contract on the Edu Chain.
 3. Interact with the contract using a web3-enabled frontend or CLI.
